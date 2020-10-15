@@ -1,17 +1,43 @@
 Vaga
 ====
 
-[Preencha aqui a vaga que você pretende]
+Vaga para Estagiário de Desenvolvimento de Sistemas Web
 
 
 CV
 ==
 
-[Preencha aqui o seu cv]
+Matheus Francisco Farias dos Santos
+Brasileiro, Solteiro. 24 anos, Residente na Rua Marquês de Baipendi, 595. Cep:
+52040-080 – Campo Grande, Recife – PE
+E-mail: matheusfarias3131@gmail.com / Fone: 81 –981622515. / 3242-6908;
+GitHub: https://github.com/Matheusfarias31
 
-__Dicas:__
-* Coloque o seu CV aqui, __não coloque só um link para um site externo tipo LinkedIn e about.me__. Você pode até colocar o seu linkedin, mas como uma informação a mais no seu CV.
-* Obedeça a formatação do markdown do GitHub. Isso deixa a leitura do seu currículo mais agradável.
-	* [Markdown syntax guide] (http://daringfireball.net/projects/markdown/syntax)
-	* [GitHub Flavored Markdown] (http://github.github.com/github-flavored-markdown/)
-	* Pressione M enquanto lê o README.mkd no projeto [jobs] (http://github.com/genomika/jobs), para ver o cheat-sheet
+FORMAÇÃO
+▪ Técnico em Manutenção e suporte de informática – ETEPAM (Concluído);
+▪ PROLINFO – Programa de Línguas e Informática da UPE - INGLÊS (Cursando)
+▪ Sistemas de Informação – Faculdade Maurício de Nassau (Cursando 4º
+Período);
+
+EXPERIÊNCIA PROFISSIONAL
+• CLIN – Plano Odonto digital – Atuação: Auxiliar administrativo (2016 – 2018);
+• Recursal do Brasil – Atuação: Assistente de vendas (2019 – 2020);
+
+CONHECIMENTO EM INFORMÁTICA
+• Python e Scrapy framework
+• Conhecimento nas linguagens de programação: C++, Java, C#;
+• Conhecimento da ferramenta: Eclipse, Microsoft Visual Studio;
+• HTML5, CSS;
+• MySQL e MongoDB;
+• Sistemas de controle de versão (GIT);
+• Conhecimento no Sistema Linux;
+• Pacote Office; 
+
+IDIOMAS
+• Inglês – (Básico)
+• Espanhol – (Básico)
+
+INFORMAÇÕES ADICIONAIS
+Dinamismo, interatividade e trabalho em equipe complementam meu perfil profissional.
+
+
